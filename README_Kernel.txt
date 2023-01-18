@@ -16,6 +16,8 @@
                 $ export ANDROID_MAJOR_VERSION=r
                 $ export ARCH=arm64
                 $ export SEC_BUILD_CONF_VENDOR_BUILD_OS=13
+                $ make exynos9830-c1slte_defconfig
+                $ make exynos9830-c2sxxx_defconfig
                 $ make exynos9830-x1slte_defconfig
                 $ make exynos9830-x1sxxx_defconfig
                 $ make exynos9830-y2slte_defconfig
